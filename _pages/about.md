@@ -32,16 +32,16 @@ My research focuses on natural language processing and machine learning.
 
 ## Publications
 
-*\* denotes first author; my name is in bold.*
+My name is in bold; "(first author)" marks papers where I am the first author.
 
 ### 2025
 
-1. **Junteng Liu\***, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** *arXiv preprint*, 2025. [[Code]](https://github.com/MiniMax-AI/SynLogic)
-2. **Junteng Liu\***, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. **On the Perception Bottleneck of VLMs for Chart Understanding.** *arXiv preprint*, 2025. [[Paper]](https://arxiv.org/abs/2503.18435) [[Code]](https://github.com/hkust-nlp/Vision4Chart)
+1. **Junteng Liu (first author)**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** *arXiv preprint*, 2025. [Code](https://github.com/MiniMax-AI/SynLogic)
+2. **Junteng Liu (first author)**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. **On the Perception Bottleneck of VLMs for Chart Understanding.** *arXiv preprint*, 2025. [Paper](https://arxiv.org/abs/2503.18435) / [Code](https://github.com/hkust-nlp/Vision4Chart)
 
 ### 2024
 
-3. **Junteng Liu\***, Shiqi Chen, Yu Cheng, Junxian He. **On the Universal Truthfulness Hyperplane Inside LLMs.** In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2024. [[Paper]](https://arxiv.org/abs/2407.08582) [[Code]](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)
+3. **Junteng Liu (first author)**, Shiqi Chen, Yu Cheng, Junxian He. **On the Universal Truthfulness Hyperplane Inside LLMs.** In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2024. [Paper](https://arxiv.org/abs/2407.08582) / [Code](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)
 4. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.** In *Proceedings of the 41st International Conference on Machine Learning (ICML)*, 2024.
 
 ### 2023
